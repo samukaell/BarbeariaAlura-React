@@ -1,4 +1,4 @@
-# ![icon](./src/assests/images/logo.png) Barbearia Alura React
+# ![icon](./src/assests/images/logo-branco.png) Barbearia Alura React
 # Pagina Web da barbearia Alura feita em React
 
 ## Tecnologias Utilizadas no front-end:
