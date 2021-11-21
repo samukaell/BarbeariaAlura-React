@@ -1,0 +1,29 @@
+
+.home{
+    background-image: url("../../assests/images/home-imagem.jpg");
+    height: 100vh;
+    text-align: center;
+    
+}
+
+.home h2{
+   transition: 1s transform;
+}
+
+.home h2:hover{
+    transform: scale(1.2);
+}
+
+.home .conteudo{
+    color: white;
+    font-size: 20px;
+    
+}
+
+.home p{
+    margin-top: 20px;
+}
+
+.pCor{
+    color: #B0473B;
+}
